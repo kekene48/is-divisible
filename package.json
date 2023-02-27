@@ -1,0 +1,22 @@
+{
+  "name": "@kekene/is-divisible",
+  "version": "1.0.1",
+  "description": "Check if a number is divisible by another",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kekene48/is-divisible.git"
+  },
+  "keywords": [
+    "divisible"
+  ],
+  "author": "Kelvin Ekene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kekene48/is-divisible/issues"
+  },
+  "homepage": "https://github.com/kekene48/is-divisible#readme"
+}
